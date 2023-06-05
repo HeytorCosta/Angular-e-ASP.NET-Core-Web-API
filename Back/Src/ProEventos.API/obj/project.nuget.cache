@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzxzG8hsTFklOUzVfy4QVZwNHYOt6mFEQUczDQszDJS7q+QEhWwlHRLk+I7gIym66O21xtiGHGM+f7QDW8aARA==",
+  "dgSpecHash": "LzQzXF4XXFcuv/Up7XzMOvrVoyIAwAViOh7SceaTEh7Z3Sq57A3pxfoJzjeNL4bb/3aarHbm+uFHr5uTg3rYvw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Heytor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -27,7 +27,9 @@
     "C:\\Users\\Heytor\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Heytor\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Heytor\\.nuget\\packages\\sqlitepclraw.bundle_winsqlite3\\2.1.5\\sqlitepclraw.bundle_winsqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Heytor\\.nuget\\packages\\sqlitepclraw.core\\2.1.5\\sqlitepclraw.core.2.1.5.nupkg.sha512",
+    "C:\\Users\\Heytor\\.nuget\\packages\\sqlitepclraw.provider.winsqlite3\\2.1.5\\sqlitepclraw.provider.winsqlite3.2.1.5.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Heytor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

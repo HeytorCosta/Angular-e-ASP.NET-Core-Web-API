@@ -27,3 +27,17 @@ C:\Users\Heytor\Documents\Web Api\Back\Src\ProEventos.API\obj\Debug\net5.0\ProEv
 C:\Users\Heytor\Documents\Web Api\Back\Src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\Heytor\Documents\Web Api\Back\Src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Users\Heytor\Documents\Web Api\Back\Src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Heytor\Documents\Web Api\back\src\proeventos.api\bin\Debug\net5.0\SQLitePCLRaw.provider.winsqlite3.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Heytor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Heytor\\Documents\\Web Api\\Back\\Src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,6 +25,8 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -63,6 +69,14 @@
               "target": "Package",
               "version": "[5.0.2, )"
             },
+            "SQLitePCLRaw.bundle_winsqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -74,8 +88,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
