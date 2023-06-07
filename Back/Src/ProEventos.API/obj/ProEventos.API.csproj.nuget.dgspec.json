@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj": {}
+    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\Src\\Proeventos.api\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj": {
+    "C:\\Users\\Heytor\\Documents\\Web Api\\back\\Src\\Proeventos.api\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\Src\\Proeventos.api\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\Src\\Proeventos.api\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Heytor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\src\\proeventos.api\\obj\\",
+        "outputPath": "C:\\Users\\Heytor\\Documents\\Web Api\\back\\Src\\Proeventos.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
